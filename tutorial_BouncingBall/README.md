@@ -26,7 +26,6 @@ Organización de directorios --> versiones
              
        |- bball__v03 --> Es la versión de v02, con los elementos estáticos de la escena terminados, solo que aquí se muestran las simplificaciones y normalizaciones de código que hemos introducido. 
           Se observará el cambio de instrucciones que hacen referencia a registros en la v02 por instrucciones de la versión actual del SDK. A partir de esta versión, y con la misma idea de actualizar y simplificar el código se realizarán las siguientes versiones.
-
         
     |- bball_subVersionsSprites
        |- bball__v04 --> Configuración de memoria y carga de los recursos asociados al gráfico que hace de “pelota”, el sprite.
