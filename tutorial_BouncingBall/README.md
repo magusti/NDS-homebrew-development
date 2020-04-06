@@ -23,8 +23,7 @@ Organización de directorios --> versiones
        |- bball__v01 --> Es la incial, muestra la carga de recursos y la generación del fondo de cielo liso.
 
        |- bball__v02 --> Muestra la carga de recursos, cómo se genera el cielo con su banda de “nubes“ y el suelo (o la plataforma) sobre el que se limitará el movimiento de los objetos. Es la versión reconstruida sobre el texto del tutorial original [1], se puede ver un gran número de instrucciones que hacen referencias a registros.
-      
-       
+             
        |- bball__v03 --> Es la versión de v02, con los elementos estáticos de la escena terminados, solo que aquí se muestran las simplificaciones y normalizaciones de código que hemos introducido. 
           Se observará el cambio de instrucciones que hacen referencia a registros en la v02 por instrucciones de la versión actual del SDK. A partir de esta versión, y con la misma idea de actualizar y simplificar el código se realizarán las siguientes versiones.
 
@@ -41,6 +40,7 @@ Organización de directorios --> versiones
 
     |- bball_subVersionsSonido
        |- bball__v07 --> Incluye el audio que se utiliza como banda sonora (sonidos/bsmusic.mod).
+       
        |- bball__v08 --> Incluye solo los efectos (FX) de sonido (sonidos/boing.wav)
 </pre>
    
