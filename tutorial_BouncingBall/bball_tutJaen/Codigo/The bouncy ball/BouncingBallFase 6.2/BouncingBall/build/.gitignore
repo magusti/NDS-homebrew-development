@@ -14,5 +14,8 @@
 *.t3x
 *~
 
+#dolphin crea estos
+.directory
+
 # directoris
-build(
+build/
