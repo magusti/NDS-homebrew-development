@@ -46,9 +46,9 @@ Organización de directorios --> versiones
    
    
 Bibliografía
- [1] “How to Make a Bouncing Ball Game for Nintendo DS” <a href="http://ekid.nintendev.com/bouncy/">http://ekid.nintendev.com/bouncy/</a>. Este trabajo ya no está disponible en la red; pero existe una copia de fecha de 2015 en el directorio "bball_tutOriginal" que es al que nos referiremos al hablar del “tutorial original”.
+ [1] “How to Make a Bouncing Ball Game for Nintendo DS” <a href="http://ekid.nintendev.com/bouncy/">&lt;http://ekid.nintendev.com/bouncy/&gt;</a>. Este trabajo ya no está disponible en la red; pero existe una copia de fecha de 2015 en el directorio "bball_tutOriginal" que es al que nos referiremos al hablar del “tutorial original”.
 
  [2] J. D. Jaén. (2015). Tutorial práctico para desarrollo de videojuegos sobre plataforma Nintendo
-NDS. Disponible en <a href="http://hdl.handle.net/10251/56433">http://hdl.handle.net/10251/56433</a>.
+NDS. Disponible en <a href="http://hdl.handle.net/10251/56433">&lt;http://hdl.handle.net/10251/56433&gt;</a>.
 
  
