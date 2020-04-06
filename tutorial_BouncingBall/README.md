@@ -10,6 +10,7 @@ gestioSonitNintendoNDS.pdf
 
 Organización de directorios --> versiones 
 
+<pre>
  tutorial_bball --> directorio base
  |- bball_tutOriginal   --> versión original (incompleta) [1]
  
@@ -39,10 +40,9 @@ Organización de directorios --> versiones
           Se observará en esta versión el cambio de instrucciones que hacen referencia a registros en la v04 y vp5 por instrucciones de la versión actual del SDK, con la idea de actualizar y simplificar el código. También se verá un cambio en los colores del suelo ... Me apetecía,
 
     |- bball_subVersionsSonido
-       |- bball__v07 
-       --> Incluye el audio que se utiliza como banda sonora (sonidos/bsmusic.mod).
+       |- bball__v07 --> Incluye el audio que se utiliza como banda sonora (sonidos/bsmusic.mod).
        |- bball__v08 --> Incluye solo los efectos (FX) de sonido (sonidos/boing.wav)
-
+</pre>
    
    
 Bibliografía
