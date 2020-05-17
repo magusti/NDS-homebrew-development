@@ -14,13 +14,5 @@
 *.t3x
 *~
 
-<<<<<<< HEAD
 # directoris
 build
-=======
-#dolphin crea estos
-.directory
-
-# directoris
-build/
->>>>>>> efe4301d1ec5ce86ee37abc04e7d698f6f9ea090

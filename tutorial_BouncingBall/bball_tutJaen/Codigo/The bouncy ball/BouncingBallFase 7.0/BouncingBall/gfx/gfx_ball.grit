@@ -1,0 +1,7 @@
+# convert ball graphic
+
+# 16 colors
+-pn16
+
+# 4bpp
+-gB4
