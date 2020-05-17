@@ -1,0 +1,19 @@
+
+# De https://github.com/github/gitignore/blob/master/C.gitignore
+
+# Prerequisites
+
+# Object files
+*.o
+*.obj
+*.elf
+
+# fitxers finals
+*.3dsx
+*.smdh
+*.elf
+*.t3x
+*~
+
+# directoris
+build
