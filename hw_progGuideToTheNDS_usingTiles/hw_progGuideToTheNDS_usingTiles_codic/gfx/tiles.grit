@@ -1,0 +1,13 @@
+# the -gB{n} rule specifies the output graphic format
+# 8 --> 256 colors paleta
+# Por defecto se asume el valor de bpp de la imagen, en este caso 8!
+-gB8
+
+#-p | -p!       Include or exclude pal data [inc]
+-p
+
+# Por defecto se asume que son teselas, si no hay que especificar -gb
+-gt
+
+# Por defecto exclude map data
+#-m!
