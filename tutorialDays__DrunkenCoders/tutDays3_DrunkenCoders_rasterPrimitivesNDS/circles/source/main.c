@@ -61,12 +61,13 @@ void DrawPixel(int X, int Y, unsigned short Color) {
   int i;
 
   i= X + Y * SCREEN_WIDTH;
-  if (Color == 0) VRAM_A[i] = RGB15(0,0,0);
-  else
-    if (Color == 1) VRAM_A[i] = RGB15(31,31,31);
+  //if (Color == 0) VRAM_A[i] = RGB15(0,0,0);
+  //else
+  //  if (Color == 1) VRAM_A[i] = RGB15(31,31,31);
+  VRAM_A[i] = Color;
 } // DrawPixel
 
-
+// rayon es el radio
 void DrawCircle (int rayon, int x_centre, int y_centre, unsigned short Color) {
  int x, y, m;
 
@@ -87,12 +88,11 @@ void DrawCircle (int rayon, int x_centre, int y_centre, unsigned short Color) {
   DrawPixel( -x+x_centre, -y+y_centre, Color );
   DrawPixel( -y+x_centre, -x+y_centre, Color );
 
-  
+  // Rellenado
   DrawLine( x+x_centre, y+y_centre, -x+x_centre, -y+y_centre, Color );
   DrawLine( y+x_centre, x+y_centre, -y+x_centre, -x+y_centre, Color );
   DrawLine(-x+x_centre, y+y_centre,  x+x_centre, -y+y_centre, Color );
   DrawLine(-y+x_centre, x+y_centre,  y+x_centre, -x+y_centre, Color );
- 
   
   if (m > 0) { //choix du point F
     y = y - 1;
